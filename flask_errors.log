@@ -1,0 +1,13 @@
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 138-345-755
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2024 17:06:53] "GET /test_get_words?selected_date_str=2024-04-11 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2024 17:07:00] "GET /test_get_words?selectedDate=2024-04-11 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2024 17:07:00] "GET /test_get_words?selectedDate=2024-04-11 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2024 17:07:14] "GET /test_get_words?selectedDate=2024-04-11 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2024 17:07:14] "GET /test_get_words?selectedDate=2024-04-11 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2024 17:07:26] "GET /test_get_words?selectedDate=2024-04-11 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2024 17:07:26] "GET /test_get_words?selectedDate=2024-04-11 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2024 17:07:47] "GET /test_get_words?selectedDate=2024-04-11 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2024 17:07:47] "GET /test_get_words?selectedDate=2024-04-11 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2024 17:07:50] "GET /test_get_words?selected_date_str=2024-04-11 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/fabianbussard/Documents/Python/new-word-web/server/app.py', reloading
